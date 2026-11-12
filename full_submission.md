@@ -294,25 +294,6 @@ flowchart TD
     Y --> Z
 ```
 
-### Plain-text fallback (if Mermaid does not render)
-
-```
-LEAD (referral / LinkedIn / website)
-  -> Discovery call (Michael or consultant)
-  -> [Decision] Log in HubSpot?  Yes / Sometimes not (referrals)
-  -> [Decision] Fit?  No -> (not described) | Yes ->
-  -> Proposal created (Michael usually; senior consultants sometimes)
-  -> Proposal sent -> [Decision] Client: accept / revise (loop) / decline (not described)
-  -> Agreement signed   ... (exception: work may start before setup is finished)
-  -> Kickoff scheduled
-  -> PM creates Asana project + shared folders
-  -> [Decision] Work assigned by PM (usual) or Michael (high-priority); capacity in spreadsheet
-  -> Delivery; progress in Asana (weekly) or Slack / email (variation)
-  -> Client updates: weekly meeting / written report / quick call (varies by client)
-  -> Billing: fixed-fee = monthly invoice | hourly = time entries -> accounting invoices (late entries delay)
-  -> (payment, closeout: not described)
-```
-
 ### Responsibility view (who does what, by lane)
 
 | Stage | Michael | Consultant | PM | Client | Accounting |
