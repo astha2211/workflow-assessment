@@ -1,6 +1,6 @@
 # Task 1 — Process Discovery Analysis
 
-**Engagement:** Client delivery standardization (consulting firm)
+**Engagement:** Client delivery standardization
 **Source:** One discovery call with Michael Reynolds, Managing Partner
 **Prepared by:** Astha Mehra
 
