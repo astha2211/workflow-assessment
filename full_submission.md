@@ -601,3 +601,6 @@ Each item has: current problem, proposed solution, expected impact, and assumpti
 3. Client confidentiality or contractual constraints on AI use.
 4. Michael's appetite for enforcement (gates and mandatory fields) versus flexibility.
 5. Baseline measurements for time spent coordinating and for billing delays.
+
+
+VIDEO RECORDING FOR EXPLAINATION-https://www.loom.com/share/0fafebc5cc614fec93ecfc4455e42eef
